@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
+.container-fluid {
+  background-image: linear-gradient(to right top, #f7f1f8, #eae0ec, #decfe0, #d2bed3, #c6aec7);
+}
+
 header img {
   width: 100%;
 }
@@ -16,8 +20,9 @@ header img {
 }
 
 .bolda {
-  font-size: 28px;
+  font-size: 22px;
   font-weight: bold;
+  font-style: italic;
   
 }
 .navbar {
@@ -36,7 +41,7 @@ header img {
 }
 
 .footer {
-  background-color: #DA223E;  
+  background-color: lightgray;  
   text-align: center;
   font-size: 8pt;
   color: white;
