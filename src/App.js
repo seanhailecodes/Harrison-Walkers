@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Home from './Home.js';
+import api from './api';
 import Logo from './color_logo_transparent.png';
 import Family from './FamilyPhoto.jpg';
 import Lola from './Lola1.jpg'
@@ -33,7 +33,7 @@ class App extends Component {
         </div>
 
         <div className="col-sm-4 offset-sm-3">
-          <Home />
+          <api />
         </div>
         
         <div>
