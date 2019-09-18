@@ -13,6 +13,10 @@ header img {
   font-weight: 600;
 }
 
+.small {
+  font-size: 8pt;
+}
+
 .bold {
   font-size: 32px;
   font-weight: 800;
