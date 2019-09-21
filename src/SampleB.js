@@ -30,7 +30,9 @@ export default class SampleB extends Component {
                     ∞ over 15lbs @ $17 per walk <br />
                     •Individual walks are 15 minutes in duration
                     <br />
-                    All walks include GPS tracking providing you with instant time stamped updates on exactly where your beloved pet was walked. Perhaps over by TaKorea (which we love) or towards Red Bull Stadium, wherever they go you will know step for step.
+                    <br />
+                    <br />
+                    Walks include GPS tracking, providing you with instant time stamped updates on exactly where your beloved pet was walked. Perhaps over by TaKorea (which we love) or towards Red Bull Stadium, wherever they go you will know step for step.
                     <br />
                     </div>
                    
